@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContactRegister</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_edit">AddEdit</string>
+    <string name="title_activity_edit_delete">EditDelete</string>
+    <string name="search_title">search_title</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_search_contact">SearchContact</string>
+    <string-array name="optionsArray" >
+        <item>Search By</item>
+        <item>Name</item>
+        <item>Email</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
